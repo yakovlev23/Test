@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+body{ 
+   background-color: rgb(218, 162, 116);
+}
+.header{
+background-color: sandybrown;
+top: 0px;
+left: 0px;
+right: 0px;
+padding: 5px;
+position: fixed;
+}
+ul#horizontal-list li a{
+    color: peru;
+    background-color: black;
+}
+ul{
+    list-style-type: upper-roman;
+}
+.title{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 35px;
+    margin-top: 0px;
+}
+.srt{
+    text-align: right;
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+    background-color: peru;
+}
+.movies{
+    margin-top: 200px;
+    font-size: 20px;
+    font-family: 'Permanent Marker', cursive;
+}
+.uno{
+    float: left;
+}
+.Spider-picture{
+    float:right;
+    width: 400px;
+    height: 500px;
+    margin: 7px 0px 7px 7px;
+}
+.dos{
+    float: left;
+}
+.Proffesor-picture{
+    float:right;
+    width: 400px;
+    height: 700px;
+    margin: 7px 0px 7px 7px;
+}
+.tres{
+    float: left;
+}
+.NYSM-picture{
+    float:right;
+    width: 400px;
+    height: 500px;
+    margin: 7px 0px 7px 7px;
+}
+.cuatro{
+    float: left;
+}
+.A-picture{
+    float: right;
+    width: 400px;
+    height: 600px;
+    margin: 7px 0px 7px 7px;
+}
+.cinco{
+    float: left;
+}
+.R-picture{
+    float: right;
+    width: 400px;
+    height: 500px;
+    margin: 7px 0px 7px 7px;
+}
+

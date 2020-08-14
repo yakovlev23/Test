@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lemonada:wght@300&family=Orbitron&display=swap');
+body {
+    background-color: gainsboro;
+}
+.Welcome {
+    text-align:left; font-family: 'Dancing Script', cursive;
+    color: crimson;
+   }
+   .Talk{
+       text-align: left; font-family: 'Dancing Script', cursive;
+       color: crimson;
+   }
+   .ABC{
+       padding-top: 15px;
+   }
+   .list{
+       background-color: cyan;
+   } 
+   ul#horizontal-list li{
+       display: inline;
+   }
+   ul#horizontal-list {
+       text-align: right;
+       list-style: none;
+       display: flex;
+       justify-content: space-between;
+   }
+   ul#horizontal-list li a{
+       color: crimson;
+   }
+   a:link {
+       color: black;
+   }
+   .main-menu{
+       display: absolute;
+       align-items: center;
+       margin-top: -215px;
+       margin-left: 450px;
+       padding:60px;
+   }
+.rightpic {
+    float: right;
+    margin: 35px 5px; 
+    border-style: double;
+    border-radius: 5px;
+    border-width: 10px;
+}
+.TAB{
+    color: crimson;
+    text-align: center;
+}
+p {
+    text-align: left; font-family: 'Red Rose', cursive;
+}
+.a,.b,.c,.d,.e,.f {
+    width: 65%; background-color: silver;
+} 
+.h2 {
+    margin-left: 760px;
+    color: crimson;
+}
+.leftpic {
+    float: left;
+    margin: 10px 5px;
+    margin-left: 120px;
+    border-style: double;
+    border-radius: 5px;
+    border-width: 10px;
+}
+.g{
+    float: right;
+    text-align:left;
+    margin-right: 150px;
+    border-style: solid;
+    width: 400px;
+}
+.MB {
+   padding-top: 500px;
+    margin-top: 10px;margin-left: 745px;
+   color: crimson;
+}
+.leftpicture{
+float: left;
+margin: 5px 5px;
+border-style: double;
+border-radius: 5px;
+border-width: 10px;
+}
+.rightpicture{
+float: right;
+margin: 5px 5px;
+border-style: double;
+border-radius: 5px;
+border-width: 10px;
+}
+.h,.i {
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 550px;
+    margin-right: 550px;
+    background-color: silver;
+    border-style: double;
+}
+.Animals{
+    padding-top: 200px;
+    vertical-align: bottom;
+    margin-left: 685px; margin-top: 50px;
+    color: crimson;
+}
+.ltanimalpic{
+float: left;
+margin: 10px 5px;
+border-style: solid;
+border-radius: 5px;
+border-width: 3px;
+}
+.rtanimalpic{
+float: right;
+margin: 10px 5px;
+border-style: solid;
+border-radius: 5px;
+border-width: 3px;
+}
+.llanimalpic{
+float: left;
+margin: 550px -150px;
+border-style: solid;
+border-radius: 5px;
+border-width: 3px;
+}
+.rlanimalpic{
+float: right;
+margin: 550px -150px;
+border-style: solid;
+border-radius: 5px;
+border-width: 3px;
+}
+.j,.k,.l {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 517px; width: 35%;
+    height: 100%;
+
+}
+.k{
+    background-color: crimson;
+    border-style: groove;
+    border-radius: 10px;
+}
+.AtH{
+    margin-left: 500px;
+    color: crimson;
+}
+.Contact{
+    padding-top: 675px;
+    color: crimson;
+}
+.m,.n{
+    color: crimson;
+}

@@ -1,0 +1,55 @@
+* {
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+    font-style: oblique;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-size: 50px;
+    font-style: oblique;
+}
+
+li {
+    font-size: 25px;
+    font-style: unset;
+}
+
+a {
+    font-size: 75px;
+}
+
+var {
+    font-size: 50px;
+}
+
+sup {
+    font-size: 50px;
+}
+
+input {
+    border-radius: 25px;
+    border: 1px solid black;
+}
+.Moms {
+    color: coral;
+    font-size: 5em;
+    font-family:'Snell Roundhand';
+}
+.Boys {
+    color:#249FAC;
+    font-family: 'Snell Roundhand';
+    font-size: 3em;
+}
+.Kids {
+    color: rgb(236, 38, 177);
+    font-family: 'Snell Roundhand';
+}
